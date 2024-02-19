@@ -1,3 +1,4 @@
 # Documentation about binary operations
 
-[DEMO](binary-operations.ipynb)
+* [Shifts](shifts.ipynb)
+* [Boundaries](boundaries.ipynb)
